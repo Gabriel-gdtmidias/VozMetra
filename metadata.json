@@ -1,0 +1,8 @@
+{
+  "name": "VozMestra - Coach de Comunicação",
+  "description": "Analise sua performance em vídeos para Stories e Reels com feedback de IA sobre retenção e linguagem corporal.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
